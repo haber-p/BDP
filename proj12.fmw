@@ -8,7 +8,7 @@
 #              --SourceDataset_CSV2_3 "D:\Studia\V_semestr\BDP\FME\cwiczenia12\coords.csv"
 #              --DestDataset_GEOJSON "D:\Studia\V_semestr\BDP\FME\cwiczenia12\noCostNeighb.json"
 #              --DestDataset_GEOJSON_3 "D:\Studia\V_semestr\BDP\FME\cwiczenia12\byCostNeighb.json"
-#              --DestDataset_FILEGDB_3 "D:\Studia\V_semestr\BDP\FME\cwiczenia12\T2019_KAR_GERMANY\LOL4.gdb"
+#              --DestDataset_FILEGDB_3 "D:\Studia\V_semestr\BDP\FME\cwiczenia12\T2019_KAR_GERMANY\Results.gdb"
 #    
 #!   ATTR_TYPE_ENCODING="SDF"
 #!   BEGIN_PYTHON=""
